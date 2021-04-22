@@ -1,0 +1,283 @@
+h1 {
+	background: -webkit-linear-gradient(#ff0095, #fa4407);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+	text-align: center;
+	font-family: changeling-neo-inline, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	letter-spacing: 4px;
+	font-size: 60px;
+	margin-left: 400px;
+	animation: animate 9s linear infinite;
+	padding-left: 80%;
+	padding-right: 40%;
+	display: inline-block;
+}
+.marquee {
+	text-transform: uppercase;
+	overflow: hidden;
+	margin-left: 250px;
+	white-space: nowrap;
+	margin-top: -5px;
+	line-height: 55px;
+}
+body {
+	background: url("gradients/gradient8.jpg");
+	background-size:cover;
+	color: #ffffcc;
+}
+@keyframes animate {
+	100%{
+		transform: translate(-100%, 0);
+	}
+}
+.selected {
+   background: #ffffcc;
+   -webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.playlist-title {
+	line-height: 2;
+	font-weight: bold;
+}
+.js-march2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+}
+.js-march2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-april2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-april2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-may2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-may2020:hover {
+font-family: changeling-neo;
+font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-june2020 {
+font-family: changeling-neo;
+font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-june2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-july2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-july2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-aug2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-aug2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-sept2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-sept2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-oct2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-oct2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-nov2020 {
+font-family: changeling-neo;
+font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-nov2020:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.js-dec2020 {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-dec2020:hover {
+font-family: changeling-neo;
+font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-text-fill-color: transparent;
+  	-webkit-background-clip: text;
+}
+.js-reset {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+}
+.js-reset:hover {
+	font-family: changeling-neo;
+	font-style: normal;
+font-weight: 700;
+	font-size: 30px;
+	background: #ffffcc;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.album_cover {
+	width: 200px;
+	height: 200px;
+	grid-column-start: 6;
+	grid-row-start: 1;
+}
+#mood {
+	width: 250px;
+	height: 270px;
+	margin-left: -10px;
+	margin-top: -50px;
+	display: block;
+	position: absolute;
+	border: 1px solid;
+}
+h2 {
+	font-family: roc-grotesk, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 17px;
+}
+h3 {
+	display: none;
+}
+p {
+	font-family: roc-grotesk, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	grid-column-start: 1;
+}
+.filter {
+	font-family: changeling-neo;
+	font-size: 30px;
+	margin-right: 1200px;
+	position: fixed;
+	letter-spacing: 4.5px;
+	padding: 1px;
+	margin-top: 108px;
+	background: -webkit-linear-gradient(#ff0095, #fa4407);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	color: #ffffcc;
+  	line-height: 35px;
+  	border: 1px solid;
+  	padding: 0.5rem;
+  	margin-left: -10px;
+}
+.container {
+	display: grid;
+	grid-template-columns: 200px;
+	height: 570px;
+	overflow: auto;
+}
+.song-container {
+	display: grid;
+	grid-gap: 0.5rem;
+	margin-left: 80px;
+	grid-template-columns:6fr 5fr;
+	grid-column-start: 2;
+	padding: 1rem;
+	border: 1px solid;
+	margin-top: 20px;
+}
+.song-container:hover {
+	opacity: 70%;
+	background: -webkit-linear-gradient(#ff0095, #fa4407);
+	 -webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+	border: 1px solid;
+	padding: 1rem;
+}
+.hidden {
+	display: none;
+}
